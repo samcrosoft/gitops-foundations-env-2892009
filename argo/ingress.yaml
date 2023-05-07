@@ -5,7 +5,7 @@ metadata:
   namespace: argocd-exercise
 spec:
   rules:
-  - host: argotester.dev
+  - host: argotester.loc
     http:
       paths:
       - backend:
