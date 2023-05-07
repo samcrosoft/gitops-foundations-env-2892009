@@ -3,3 +3,4 @@ node_modules
 .tmp
 npm-debug.log
 argo/demo-ing.yaml
+my-creds.sh
